@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>http://10.200.1.242/</loc>
+     <lastmod>2021-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://10.200.1.242/puma7/</loc>
+     <lastmod>2021-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://10.200.1.242/chita/</loc>
+     <lastmod>2021-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://10.200.1.242/chita-hub5/</loc>
+     <lastmod>2021-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://10.200.1.242/coda-5519eu/</loc>
+     <lastmod>2021-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
