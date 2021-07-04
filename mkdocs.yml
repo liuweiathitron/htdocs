@@ -1,0 +1,11 @@
+site_name: htdocs
+site_url: http://10.200.1.242/
+nav:
+        - Home: index.md
+        - PUMA7: puma7.md
+        - CHITA: chita.md
+        - CHITA-Hub5: chita-hub5.md
+        - CODA-5519 EU: coda-5519eu.md
+
+theme: readthedocs
+
