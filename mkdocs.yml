@@ -1,11 +1,21 @@
 site_name: htdocs
 site_url: http://10.200.1.242/
-nav:
-        - Home: index.md
-        - PUMA7: puma7.md
-        - CHITA: chita.md
-        - CHITA-Hub5: chita-hub5.md
-        - CODA-5519 EU: coda-5519eu.md
-
 theme: readthedocs
+extra_css:
+    - css/extra.css
+
+nav:
+    - 'Welcome': index.md
+    - 'PUMA7':
+        - 'Change MAC address': puma7/change_mac_address.md
+    - 'CHITA':
+        - chita/build.md
+        - chita/release.md
+    - 'CHITA-Hub5':
+        - chita-hub5/build.md
+        - chita-hub5/release.md
+    - 'CODA-5519 EU':
+        - coda-5519eu/build.md
+        - coda-5519eu/release.md
+
 
