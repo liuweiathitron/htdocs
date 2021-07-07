@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://10.200.1.242/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/puma7/change_mac_address/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/chita/build/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/chita/release/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/chita-hub5/build/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/chita-hub5/release/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/coda-5519eu/build/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://10.200.1.242/coda-5519eu/release/</loc>
-     <lastmod>2021-07-06</lastmod>
+     <lastmod>2021-07-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
